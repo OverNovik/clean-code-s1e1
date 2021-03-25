@@ -92,7 +92,7 @@ label[for="add-element-list__new_task"] {
 #add-element-list__new_task {
   width: 318px;
 }
-p > button:hover {
+form > button:hover {
   color: #0fc57c;
 }
 
